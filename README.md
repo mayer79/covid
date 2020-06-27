@@ -9,5 +9,4 @@ The short R script "cases_per_mio.R" in subfolder "r"
 3. plots the cases per mio inhabitants including a scatter plot smoother.
 
 The resulting plot as per June 27, 2020 is as follows:
-
-![](cases_per_mio.png)
+!(cases_per_mio.png)
