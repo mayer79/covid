@@ -14,5 +14,5 @@ prep <- raw %>%
 # Plot
 ggplot(prep, aes(x = Date, y = `Cases per Mio`)) +
   geom_line() +
-  geom_smooth() +
+  geom_smooth(span = 0.3) +
   facet_wrap(~ countriesAndTerritories)
