@@ -15,3 +15,5 @@ The resulting plot of the Python script as per July 31, 2020:
 # COVID-19 number of positive and negative tests in Switzerland
 
 The script `r/tests_switzerland.R` downloads data from the Federal Office of Public Health BAG and visualizes the number of positive and negative cases over time, aggregated per week.
+
+![Tests](tests_Switzerland.png)
